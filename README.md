@@ -36,3 +36,5 @@
 
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+![Exorcist's GitHub stats](https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github)
