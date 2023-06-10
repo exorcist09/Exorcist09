@@ -1,6 +1,5 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Exorcist</h1>
 
-- 👋 Hello, I'm Exorcist
 - 💻 I’m currently working on Web/App development and Linux Projects
 - 🦼 I’m currently learning MERN/MEAN stack, Blockchain
 - 🔭 I love Astronomy.
@@ -38,3 +37,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ![Exorcist's GitHub stats](https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github)
+ 
+
+
+
