@@ -1,11 +1,8 @@
  <h1 align="center">Hi 👋, I'm Exorcist</h1>
 
-- 🥷🏻 I’m currently working on Web/App development and Linux Projects
-- 🦼 I’m currently working with MERN Stack
-- 🔭 I love Astronomy.
-- 😛 I can work on a slow PC very calmly 
-- 😄 Pronouns: He/Him.
-- 🤪 Getting a Nobel for making a Nuclear bomb is cool
+- 🥷🏻 I’m currently building various stuff in Web-development
+- 🦼 I’m currently learning different stuff to work with them.  
+- 🤪 Getting a Nobel for making a Nuclear bomb is cool....What say?
 
 
 ## Skills
