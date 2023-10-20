@@ -5,7 +5,7 @@
 - 🤪 Getting a Nobel for making a Nuclear bomb is cool....What say?
 
 
-## Skills
+<!-- ## Skills
 
 | Languages Known    |  Operating System Known  |Technologies Known |Tools Known |
 | --------------- | ------------------ |---------------|--------------- |
@@ -18,6 +18,7 @@
 | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  |   |   |
 |![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)|    |    |
 
+-->
 
 ![Exorcist's GitHub stats](https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github )
  
