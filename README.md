@@ -20,6 +20,6 @@
 
 -->
 
-![Exorcist's GitHub stats](https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github )
+<!-- ![Exorcist's GitHub stats](https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github ) -->
  
 
