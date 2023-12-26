@@ -22,5 +22,10 @@
 
 
  <!-- ![Exorcist's GitHub stats](https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github ) -->
- 
+
+## Let's Connect 🤝
+<p align="center" >
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-verma-exorcist09/" target="blank"> <img src="https://github.com/exorcist09/Exorcist09/assets/124388283/5b577488-fc4c-443d-9dff-e781ef8b3a0e" height="90" width="320" /></a>
+</p>
+
 
