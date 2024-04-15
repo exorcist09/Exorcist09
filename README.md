@@ -1,4 +1,4 @@
- 👋,I'm <!-- <img src="https://github.com/exorcist09/Exorcist09/assets/124388283/4f3bdde6-9db7-4cb6-aa00-afe8f9c96d22" align="center" width="250" height="50"/>--> Exorcist </h1>
+ <h1 align="center">👋 Hi, I'm  Exorcist </h1>
 
 
  <!--<h1 align="center"> <img src="https://github.com/exorcist09/Exorcist09/assets/124388283/58077c0e-65a1-4c2e-bbce-0ade02253d81" width="150" height="80" align="center"/>-->
