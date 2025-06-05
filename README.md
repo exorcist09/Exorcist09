@@ -10,7 +10,6 @@
 - 📫 Reach me at **vermaadarsh1024@gmail.com**
 - 🤪 Getting a Nobel for making a Nuclear bomb is cool... What say?
 
----
 
 ## 🛠️ Skills
 
@@ -25,17 +24,16 @@
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                       | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)                  | ![SocketIo](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)      |                                                                                                                    | ![PrismaORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)                       | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)    |                                                                                                                               |
 |                                                                                                                            | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)                           |                                                                                                                     |                                                                                                                    | ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)                  |                                                                                                             |                                                                                                                               |
 |                                                                                                                            | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)                     |                                                                                                                     |                                                                                                                    |                                                                                                                                |                                                                                                             |                                                                                                                               |
----
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github" alt="Adarsh's GitHub Stats" />
+  <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github&bg_color=161B22" alt="Adarsh's GitHub Stats" />
+  <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exorcist09&layout=donut&theme=dark&hide=scss&langs_count=10&bg_color=161B22" alt="Top Languages" />
 </p>
-
----
 
 ## Let's Connect 🤝
 
-<p align="center">
+<p align="center" style="gap:10px">
   <a href="https://www.linkedin.com/in/adarsh-verma-exorcist09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       style="height: 50px;" />
