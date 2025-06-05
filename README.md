@@ -6,7 +6,7 @@
 </h1>
 
 - 🥷🏻 I’m currently building various stuff in **Development**
-- 🦼 I’m currently learning **AI/ML**
+- 🦼 I’m currently learning **Machine Learning**
 - 📫 Reach me at **vermaadarsh1024@gmail.com**
 - 🤪 Getting a Nobel for making a Nuclear bomb is cool... What say?
 
