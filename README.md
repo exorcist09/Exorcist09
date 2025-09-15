@@ -5,14 +5,15 @@
   👋I'm Adarsh
 </h1>
 
-- 📊 I’m currently exploring the world of **Business** & **Data Analytics**  
-- 🦼 Skilled in SQL, data visualization, and analytics tools
-- 📫 Reach me at **vermaadarsh1024@gmail.com**
-- 🤓 Turning raw data into actionable insights (and maybe coffee into dashboards ☕)
-
+- 📊 I’m currently exploring the world of Softwares  
+- 🦼 Skilled in AL/ML
+-📫 Reach me at **vermaadarsh1024@gmail.com**
+<!--
+-  🤓 Turning raw data into actionable insights (and maybe coffee into dashboards ☕)
+-->
 
 ## 🛠️ Skills
-<!--
+
 
 | Languages Known                                                                                                            | Web development                                                                                                              | Web Development                                                                                                     | AI/ML                                                                                                              | Tools                                                                                                                          | OS                                                                                                          | Web3                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -26,19 +27,22 @@
 |                                                                                                                            | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)                           |                                                                                                                     |                                                                                                                    | ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)                  |                                                                                                             |                                                                                                                               |
 |                                                                                                                            | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)                     |                                                                                                                     |                                                                                                                    |                                                                                                                                |                                                                                                             |                                                                                                                               |
 
--->
 
+
+<!--
 | **Data Analysis & BI**                                                                                                       | **Databases**                                                                                                       | **Programming & Scripting**                                                                            | **Data Visualization**                                                                                          | **Tools**                                                                                                        | **Operating Systems**                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)     | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)                | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)      | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?\&style=for-the-badge\&logo=jupyter\&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white) |
 | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)                  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=sqlite\&logoColor=white)      | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=plotly\&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)                   | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)    |
 | ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge\&logo=google-sheets\&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)          | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)               | ![Seaborn](https://img.shields.io/badge/Seaborn-376D9C?style=for-the-badge\&logo=python\&logoColor=white)       | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=Postman\&logoColor=white)       | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)    |
 
+-->
 ## 📊 GitHub Stats
 <p align="center">
   <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=exorcist09&show_icons=true&theme=dark&rank_icon=github&bg_color=161B22" alt="Adarsh's GitHub Stats" />
 <!--   <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exorcist09&layout=donut&theme=dark&hide=scss&langs_count=10&bg_color=161B22" alt="Top Languages" /> -->
 </p>
+
 
 ## Let's Connect 🤝
 
