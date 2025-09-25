@@ -6,7 +6,6 @@
 </h1>
 
 - 📊 I’m currently exploring the world of Softwares  
-- 🦼 Skilled in AL/ML
 -📫 Reach me at **vermaadarsh1024@gmail.com**
 <!--
 -  🤓 Turning raw data into actionable insights (and maybe coffee into dashboards ☕)
