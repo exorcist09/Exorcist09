@@ -5,11 +5,13 @@
   👋I'm Adarsh
 </h1>
 
-- 📊 I’m currently exploring the world of Softwares  
--📫 Reach me at **vermaadarsh1024@gmail.com**
-<!--
--  🤓 Turning raw data into actionable insights (and maybe coffee into dashboards ☕)
--->
+- 📊 Exploring the world of Softwares.  
+- 💻 Skilled in **Java**, **Spring Boot**, and the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+- ⚙️ Currently deepening my understanding of **Object-Oriented Programming (OOP)** and developing **Spring Boot Microservices**.  
+- 🚀 Passionate about solving real-world problems through clean, maintainable, and optimized code.  
+- 🤝 Open to collaborating on exciting projects and contributing to **Open Source**.  
+- 💬 Ask me about **Java**, **Backend Development**.  
+- 📫 Reach me at **vermaadarsh1024@gmail.com** 
 
 ## 🛠️ Skills
 
