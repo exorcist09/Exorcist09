@@ -6,7 +6,7 @@
 </h1>
 
 - 📊 Exploring the world of Softwares.  
-- 💻 Skilled in **Java**, **Spring Boot**, and the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+- 💻 Skilled in **Java**, **Spring Boot**, **Django**,**Django-REST** and the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
 - ⚙️ Currently deepening my understanding of **Object-Oriented Programming (OOP)** and developing **Spring Boot Microservices**.  
 - 🚀 Passionate about solving real-world problems through clean, maintainable, and optimized code.  
 - 🤝 Open to collaborating on exciting projects and contributing to **Open Source**.  
