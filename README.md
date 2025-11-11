@@ -6,7 +6,7 @@
 </h1>
 
 - 📊 Exploring the world of Softwares.  
-- 💻 Work with **Java**, **Spring Boot**, **Django**,**Django-REST** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+- 💻 Work with **Java**, **Spring Boot**, **Django**, **Django-REST** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
 - ⚙️ Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **OS** and developing **Spring Boot Microservices**.  
 - 🤝 Open to collaborating on exciting projects and contributing to **Open Source**.  
 - 💬 Ask me about **Java**, **Backend Development**.  
