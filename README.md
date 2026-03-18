@@ -1,17 +1,20 @@
 <!-- <h1 align="center">👋 Hi, I'm Adarsh</h1> -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://github.com/exorcist09/Exorcist09/assets/124388283/58077c0e-65a1-4c2e-bbce-0ade02253d81" width="150" height="80" align="center"/>
-  👋I'm Adarsh
-</h1>
+  I'm Adarsh
+</h1> -->
 
-- 📊 Exploring the world of Softwares.  
-- 💻 Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
-- ⚙️ Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **OS** and developing **Microservices**.  
-- 🤝 Open to collaborating on exciting projects and contributing to **Open Source**.  
-- 💬 Ask me about **Java**, **Backend Development**.  
-- 📫 Reach me at **vermaadarsh1024@gmail.com** 
+<h2 align="left">
+  Hi! I'm Adarsh
+</h2>
 
+- Exploring the world of Software.  
+- Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+- Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **Distributed Systems** and developing **Microservices**.  
+- Ask me about **Java**, **Backend Development**.  
+- Reach me at **vermaadarsh1024@gmail.com** 
+<!-- Open to collaborating on exciting projects and contributing to **Open Source**.  -->
 
 <!--
 ## 🛠️ Skills
@@ -45,9 +48,10 @@
 </p>
 -->
 
-## Let's Connect 🤝
 
-<p align="center" style="gap:10px">
+ <!-- Let's Connect 🤝 -->
+
+<!-- <p align="center" style="gap:10px">
   <a href="https://www.linkedin.com/in/adarsh-verma-exorcist09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       style="height: 50px;" />
@@ -56,6 +60,6 @@
   <a href="mailto:vermaadarsh1024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       style="height:50px;" />
-  </a>
+  </a> -->
 </p>
 
