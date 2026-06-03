@@ -10,10 +10,11 @@
 </h2>
 
 - Exploring the world of Software.  
-- Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
-- Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **Distributed Systems** and developing **Microservices**.  
-- Ask me about **Java**, **Backend Development**.  
+- Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 - Reach me at **vermaadarsh1024@gmail.com** 
+<!--- Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **Distributed Systems** and developing **Microservices**.  
+- Ask me about **Java**, **Backend Development**.  -->
+
 <!-- Open to collaborating on exciting projects and contributing to **Open Source**.  -->
 
 <!--
