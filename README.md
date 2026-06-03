@@ -11,13 +11,13 @@
 
 - Exploring the world of Software.  
 - Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
-- Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **Distributed Systems** and developing **Microservices**.  
+- Currently deepening my understanding of **Distributed Systems**, **System Architecture**, and building fault-tolerant, scalable **Microservices** .  
 - Ask me about **Java**, **Backend Development**.
 - Reach me at **vermaadarsh1024@gmail.com** 
 
 <!-- Open to collaborating on exciting projects and contributing to **Open Source**.  -->
 
-
+<!--
 ## 🛠️ Skills
 
 | Languages Known                                                                                                            |  Development                                                                                                                 |   Development                                                                                                       | Misc.                                                                                                              | Tools                                                                                                                          | OS                                                                                                          |
@@ -49,8 +49,8 @@
 </p>
 -->
 
-
- Let's Connect 🤝
+<!--
+## 🤝 Let's Connect 
 
  <p align="center" style="gap:10px">
   <a href="https://www.linkedin.com/in/adarsh-verma-exorcist09/" target="_blank">
