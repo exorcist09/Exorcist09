@@ -11,13 +11,13 @@
 
 - Exploring the world of Software.  
 - Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+- Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **Distributed Systems** and developing **Microservices**.  
+- Ask me about **Java**, **Backend Development**.
 - Reach me at **vermaadarsh1024@gmail.com** 
-<!--- Currently deepening my understanding of **Object-Oriented Programming (OOP)**, **Distributed Systems** and developing **Microservices**.  
-- Ask me about **Java**, **Backend Development**.  -->
 
 <!-- Open to collaborating on exciting projects and contributing to **Open Source**.  -->
 
-<!--
+
 ## 🛠️ Skills
 
 | Languages Known                                                                                                            |  Development                                                                                                                 |   Development                                                                                                       | Misc.                                                                                                              | Tools                                                                                                                          | OS                                                                                                          |
@@ -50,9 +50,9 @@
 -->
 
 
- <!-- Let's Connect 🤝 -->
+ Let's Connect 🤝
 
-<!-- <p align="center" style="gap:10px">
+ <p align="center" style="gap:10px">
   <a href="https://www.linkedin.com/in/adarsh-verma-exorcist09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       style="height: 50px;" />
@@ -61,6 +61,6 @@
   <a href="mailto:vermaadarsh1024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       style="height:50px;" />
-  </a> -->
+  </a> 
 </p>
 
