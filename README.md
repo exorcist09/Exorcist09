@@ -6,13 +6,14 @@
 </h1> -->
 
 <h2 align="left">
-  Hi! I'm Adarsh
+ Hi! I'm Adarsh
 </h2>
 
 - Exploring the world of Software.  
-- Work with **Java**, **Spring Boot** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
-- Currently deepening my understanding of **Distributed Systems**, **System Architecture**, and building fault-tolerant, scalable **Microservices** .  
-- Ask me about **Java**, **Backend Development**.
+- Work with **Java**, **Python** and that **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+- Currently diving deeper into **Distributed Systems**, **System Architecture** and **Agentic AI** .
+- Building with **ML**, **LLMs**, **RAG**, **AI Agents**, and **Agentic Workflows**
+- Ask me about **Backend Development** or **AI**.
 - Reach me at **vermaadarsh1024@gmail.com** 
 
 <!-- Open to collaborating on exciting projects and contributing to **Open Source**.  -->
